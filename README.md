@@ -1,6 +1,6 @@
-# VetPak1.0
+# VetPak MCBedrock Recource Project!
 
-VetPak Version (1.0.0)
+Current VetPak Version is (V1.2)
 
 | DESCRIPTION |
 -----------------------------------------------------------------------------------------------------------------
